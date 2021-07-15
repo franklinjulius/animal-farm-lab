@@ -6,9 +6,7 @@ const catSound = document.getElementById('cat-meow');
 const dogSound = document.getElementById('dog-bark');
 
 
-console.log(horseSound);
-console.log(catSound);
-console.log(dogSound);
+
 
 
 horsePic.addEventListener('click', () => {
